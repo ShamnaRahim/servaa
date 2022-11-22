@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407865402371",
+    "project_id": "serva-21bcd",
+    "storage_bucket": "serva-21bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407865402371:android:9c0914a7a1162559dd1a36",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.serva.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407865402371-nnvgssjhrhk3ou5na6uqnvaokvu5t8bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ1pdWuzCzOWC8iHHYocjak_sW1sxo6DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407865402371-nnvgssjhrhk3ou5na6uqnvaokvu5t8bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
